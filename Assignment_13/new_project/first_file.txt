@@ -1,0 +1,3 @@
+Hello python backend developers
+Doing my homework to understand this topic
+i hope i'll become senior backend developer
