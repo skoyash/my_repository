@@ -11,6 +11,9 @@ requests = "^2.32.5"
 numpy = "^2.4.3"
 
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.0.2"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
